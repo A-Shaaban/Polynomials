@@ -1,0 +1,47 @@
+short *_SUB_SHOWBD_INTEGER_K=NULL;
+if(_SUB_SHOWBD_INTEGER_K==NULL){
+_SUB_SHOWBD_INTEGER_K=(short*)mem_static_malloc(2);
+*_SUB_SHOWBD_INTEGER_K=0;
+}
+long fornext_value2387;
+long fornext_finalvalue2387;
+long fornext_step2387;
+unsigned char fornext_step_negative2387;
+short *_SUB_SHOWBD_INTEGER_B=NULL;
+if(_SUB_SHOWBD_INTEGER_B==NULL){
+_SUB_SHOWBD_INTEGER_B=(short*)mem_static_malloc(2);
+*_SUB_SHOWBD_INTEGER_B=0;
+}
+long fornext_value2390;
+long fornext_finalvalue2390;
+long fornext_step2390;
+unsigned char fornext_step_negative2390;
+short *_SUB_SHOWBD_INTEGER_A=NULL;
+if(_SUB_SHOWBD_INTEGER_A==NULL){
+_SUB_SHOWBD_INTEGER_A=(short*)mem_static_malloc(2);
+*_SUB_SHOWBD_INTEGER_A=0;
+}
+long fornext_value2395;
+long fornext_finalvalue2395;
+long fornext_step2395;
+unsigned char fornext_step_negative2395;
+short *_SUB_SHOWBD_INTEGER_COLOUR=NULL;
+if(_SUB_SHOWBD_INTEGER_COLOUR==NULL){
+_SUB_SHOWBD_INTEGER_COLOUR=(short*)mem_static_malloc(2);
+*_SUB_SHOWBD_INTEGER_COLOUR=0;
+}
+short pass2396;
+short pass2397;
+long fornext_value2402;
+long fornext_finalvalue2402;
+long fornext_step2402;
+unsigned char fornext_step_negative2402;
+long fornext_value2406;
+long fornext_finalvalue2406;
+long fornext_step2406;
+unsigned char fornext_step_negative2406;
+long fornext_value2408;
+long fornext_finalvalue2408;
+long fornext_step2408;
+unsigned char fornext_step_negative2408;
+short pass2409;
