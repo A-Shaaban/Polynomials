@@ -1,1 +1,0 @@
-.\bin\gpp.exe -w -Wall -I.\sdl -I.\sdlmore -L.\ -L.\sdl -L.\sdlmore qbx.cpp -mwindows -lmingw32 -lqbx -lSDL_mixer -lSDL_image -lSDL_ttf -lSDLmain -lSDL -o 

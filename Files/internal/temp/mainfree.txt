@@ -1,4 +1,0 @@
-if (__ARRAY_SINGLE_DEGREES[2]&1){
-free((void*)(__ARRAY_SINGLE_DEGREES[0]));
-}
-qbs_free(__STRING_R);

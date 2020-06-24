@@ -1,5 +1,0 @@
-short *_SUB_PAWN_INTEGER_ID=NULL;
-if(_SUB_PAWN_INTEGER_ID==NULL){
-_SUB_PAWN_INTEGER_ID=(short*)mem_static_malloc(2);
-*_SUB_PAWN_INTEGER_ID=0;
-}

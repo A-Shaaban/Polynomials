@@ -1,1 +1,0 @@
-qbs_free(_SUB_SHOWMAN_STRING_N);
